@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace dict_sample
+namespace prak_4_03
 {
   class Program
   {
@@ -13,15 +13,15 @@ namespace dict_sample
       lookup["1"] = "one";
       lookup["2"] = "два";
       lookup["3"] = "три";
-      lookup["4"] = "Four";
-      lookup["5"] = "Five";
+      lookup["4"] = "four";
+      lookup["5"] = "five";
       lookup["6"] = "шесть";
       lookup["7"] = "семь";
       lookup["8"] = "eight";
       lookup["9"] = "девять";
       lookup["+"] = "плюс";
 
-      string ourNumber = "+7926-377-2622";
+      string ourNumber = "+7915-157-3100";
       foreach (char c in ourNumber)
       {
         string digit = c.ToString();
