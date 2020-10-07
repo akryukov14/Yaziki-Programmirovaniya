@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>prak_4_04</RootNamespace>
+    <RootNamespace>prak4_04</RootNamespace>
   </PropertyGroup>
 
 </Project>

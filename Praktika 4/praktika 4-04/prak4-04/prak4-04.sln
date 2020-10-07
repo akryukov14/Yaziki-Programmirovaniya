@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prak 4-04", "prak 4-04\prak 4-04.csproj", "{94DC4850-9634-40F5-85BF-0E49E603BF8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prak4-04", "prak4-04\prak4-04.csproj", "{1F4FB09C-7EBB-45B8-BE2D-790207D8A03B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{94DC4850-9634-40F5-85BF-0E49E603BF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94DC4850-9634-40F5-85BF-0E49E603BF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94DC4850-9634-40F5-85BF-0E49E603BF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94DC4850-9634-40F5-85BF-0E49E603BF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4FB09C-7EBB-45B8-BE2D-790207D8A03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4FB09C-7EBB-45B8-BE2D-790207D8A03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4FB09C-7EBB-45B8-BE2D-790207D8A03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4FB09C-7EBB-45B8-BE2D-790207D8A03B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C8E0EC17-9A6C-439E-84EF-EE52C108003A}
+		SolutionGuid = {AF8849BC-1E13-400C-A6E4-5447EC88825B}
 	EndGlobalSection
 EndGlobal
